@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    text-decoration-line: overline underline;
+    text-transform:uppercase ;
+    text-shadow:3px 3px 1px grey ;
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 10px dotted fuchsia;
+}
+p{
+    background-color: aqua;
+    color: blue;
+    text-transform: uppercase;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    border-left: 15px solid blue;
+}
